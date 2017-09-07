@@ -85,7 +85,7 @@ SOSE 2018 encourages papers report industry practice, case studies, empirical re
 * Case studies, experiments and evaluation of service-oriented system
 * Innovative service applications and experiences
 
-###### Survey and Emerging Subjects Tutorial Papers
+##### Survey and Emerging Subjects Tutorial Papers
 
 In addition to regular research paper and industry practice/case study paper sessions, SOSE 2018 will also invite some tutorial papers, which review the state-of-the-art of the research on services engineering as well as the related emerging paradigms and technologies. These papers should summarize the recent research advance in service engineering from different perspectives, identify the open issues and future trends and challenges in the field. SOSE 2018 also encourages discussion papers which target at the visions on future related issues, including the emerging paradigms, technologies and applications. Papers should be no more than 10 pages in length.
 
