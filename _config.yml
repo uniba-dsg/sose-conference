@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Service-oriented System Engineering Symposium (SOSE) 2018"
+title: "Service-oriented System Engineering (SOSE) 2018"
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/sose-conference"
@@ -61,8 +61,8 @@ eventDate: "March 26 - 29, 2018"
 typeoutTextValues: '"", "Service-oriented System Engineering", "SOSE"'
 typeoutFallback: "SOSE"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Call for papers"}
+# - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About GDG DevFest"

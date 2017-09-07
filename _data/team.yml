@@ -1,7 +1,7 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
+  name: "Guido"
+  surname: "Wirtz"
   title: "Sponsors and Speakers Manager"
   thumbnailUrl: VitaliyZasadnyy.jpg
   team: true
@@ -14,8 +14,8 @@
     - {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
+  name: "Jerry"
+  surname: "Gao"
   title: "Designer and Web Developer"
   thumbnailUrl: OlehZasadnyy.jpg
   team: true
@@ -23,7 +23,7 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "email", link: "jerry.gao @sjsu.edu"}
 - 
   id: 2
   name: "Ostap"
@@ -58,3 +58,16 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 8
+  name: "Stefan"
+  surname: "Kolb"
+  title: "University of Bamberg"
+  pc: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    - {name: "github", link: "https://github.com/zasadnyy"}
+    - {name: "site", link: "http://zasadnyy.com/"}    
