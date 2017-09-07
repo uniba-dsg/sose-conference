@@ -56,7 +56,7 @@ rightNavigationButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.png"
+heroImage: "hero.jpg"
 heroTitle: "<typeout> 2018"
 eventDate: "March 26 - 29, 2018"
 typeoutTextValues: '"", "Service-oriented System Engineering", "SOSE"'
