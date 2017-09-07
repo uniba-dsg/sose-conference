@@ -89,7 +89,7 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location"
+locationBlockTitle: "Conference Venue"
 eventLocationName: "University of Bamberg"
 eventLocationLink: "https://www.uni-bamberg.de/en/"
 eventStreetAddress: "An der Weberei 5"
@@ -105,13 +105,13 @@ mapCenterCoordinates: "49.902249, 10.858910"
 mapMobileCenterCoordinates: "49.902249, 10.858910"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Location"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Bamberg, Germany"
+venueFeatures: ["UNESCO World Heritage"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
