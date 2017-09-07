@@ -18,7 +18,7 @@ Continuing the tradition of the last eleven SOSE Symposia, the 12th SOSE intends
 
 Research papers should be no more than __10 pages__ in length. The topics include, but are not limited to, the following:
 
-####### Track 1: Advanced Models for Service Engineering
+__Track 1: Advanced Models for Service Engineering__
 * Microservices architecture, deployment and management
 * DevOps and service engineering
 * Model-driven development of service-oriented systems
@@ -37,45 +37,45 @@ __Track 2: Computing Environments and Virtualization__
 * Large scale computing and analytics
 
 
-Track 3: Methods, Languages & Tools for process-based SOC systems
-- Business process integration, alignment & management in SOAs
-- Methods, languages & tools for building process-based SOC systems 
-- Metrics and measurement of services, QoS, and QoE
-- Runtime verification, validation, monitoring
-- Dynamic service delivery, deployment and evolution
-- Service mobility, scalability, elasticity, and security
-- Operation and governance for large-scale service-oriented systems
-- Adaptation, control and optimization in service-oriented systems 
-- Modernization, migration, and servicetization of legacy systems
-- Service-oriented system engineering for large-scale analytics
-- Service-oriented engineering and clouds
+__Track 3: Methods, Languages & Tools for process-based SOC systems__
+* Business process integration, alignment & management in SOAs
+* Methods, languages & tools for building process-based SOC systems 
+* Metrics and measurement of services, QoS, and QoE
+* Runtime verification, validation, monitoring
+* Dynamic service delivery, deployment and evolution
+* Service mobility, scalability, elasticity, and security
+* Operation and governance for large-scale service-oriented systems
+* Adaptation, control and optimization in service-oriented systems 
+* Modernization, migration, and servicetization of legacy systems
+* Service-oriented system engineering for large-scale analytics
+* Service-oriented engineering and clouds
 
-Track 4: Service-based Cyber-Physical Systems
-- Edge computing and fog computing
-- Software and system engineering for CPS
-- REST APIs and services for CPS
-- Mobile Services for CPS
-- System modelling and simulations
-- Data Management for CPS
-- Dependable network and system architectures for CPS
+__Track 4: Service-based Cyber-Physical Systems__
+* Edge computing and fog computing
+* Software and system engineering for CPS
+* REST APIs and services for CPS
+* Mobile Services for CPS
+* System modelling and simulations
+* Data Management for CPS
+* Dependable network and system architectures for CPS
 
-Track 5: Intelligent Services for Smart World
-- Smart Home, Smart Office, Smart City 
-- Intelligent services architectures and provisioning models
-- Smart systems programming models and methodologies 
-- Swarm Intelligence 
-- Context-aware services 
-- Nature-inspired intelligent services 
-- Knowledge representation and reasoning 
+__Track 5: Intelligent Services for Smart World__
+* Smart Home, Smart Office, Smart City 
+* Intelligent services architectures and provisioning models
+* Smart systems programming models and methodologies 
+* Swarm Intelligence 
+* Context-aware services 
+* Nature-inspired intelligent services 
+* Knowledge representation and reasoning 
 
-Track 6: Social Networking Services
-- Location-Based social networks 
-- Human mobility modeling and mining 
-- Recommendation systems for service computing 
-- Human-centric sensing 
-- Intelligent socially-aware and community-aware systems 
-- Security, privacy, safety and legal issues 
-- Event detection and predication in social networks
+__Track 6: Social Networking Services__
+* Location-Based social networks 
+* Human mobility modeling and mining 
+* Recommendation systems for service computing 
+* Human-centric sensing 
+* Intelligent socially-aware and community-aware systems 
+* Security, privacy, safety and legal issues 
+* Event detection and predication in social networks
 
 ##### Industry Practice / Case Study papers
 
@@ -85,7 +85,8 @@ SOSE 2018 encourages papers report industry practice, case studies, empirical re
 * Case studies, experiments and evaluation of service-oriented system
 * Innovative service applications and experiences
 
-C. Survey and Emerging Subjects Tutorial Papers
+###### Survey and Emerging Subjects Tutorial Papers
+
 In addition to regular research paper and industry practice/case study paper sessions, SOSE 2018 will also invite some tutorial papers, which review the state-of-the-art of the research on services engineering as well as the related emerging paradigms and technologies. These papers should summarize the recent research advance in service engineering from different perspectives, identify the open issues and future trends and challenges in the field. SOSE 2018 also encourages discussion papers which target at the visions on future related issues, including the emerging paradigms, technologies and applications. Papers should be no more than 10 pages in length.
 
 The topics include, but are not limited to, the following:
@@ -119,56 +120,3 @@ Once accepted, the paper will be included into the IEEE conference proceedings p
 
 Paper submission links:
 (To be added)
-
-If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). An independent program committee assesses the proposals and selects the actual conference talks.<br/>
-
-#### Themes and topics – what do we expect?
-Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
-
-##### Android
-
-__Google I/O 2014__
-
-* Material Design
-* Migration to ART
-* New Android Camera API
-* New Job Scheduler
-* Storage Access Framework
-* Elevation & Clipping
-
-__General__
-
-* Android Continuous Integration
-* Loaders, Cursor Adapters
-* Android Animations
-* Patterns in Android development
-
-##### Web
-
-* AngularJS (1x and 2.0)
-* Dart (AngularDart, server-side)
-* Polymer and WebComponents
-* Material Design in Web
-* ChromeOS (apps development)
-* Web Performance (tools, techniques, approaches)
-
-
-##### Cloud
-
-* Google Cloud Platform
-  * Compute Engine
-  * App Engine
-  * Storages (SQL, NoSQL, BigData)
-  * APIs
-* Go (as a language for a Cloud Ready Apps)
-
-
-#### Please submit your proposals [here](http://bit.ly/dfua-c4p).
-__Deadline__ is September 1, 2014
-
-__Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
-
-The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.<br/>
-
-#### Any questions? 
-Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
