@@ -18,7 +18,7 @@ Continuing the tradition of the last eleven SOSE Symposia, the 12th SOSE intends
 
 Research papers should be no more than __10 pages__ in length. The topics include, but are not limited to, the following:
 
-Track 1: Advanced Models for Service Engineering
+####### Track 1: Advanced Models for Service Engineering
 * Microservices architecture, deployment and management
 * DevOps and service engineering
 * Model-driven development of service-oriented systems
@@ -28,7 +28,7 @@ Track 1: Advanced Models for Service Engineering
 * Efficient scheduling of services
 * Services infrastructure for big data
 
-Track 2: Computing Environments and Virtualization
+__Track 2: Computing Environments and Virtualization__
 * Container-based virtualization
 * Programming models, languages, tools and platforms
 * Architecture of Internet-based virtual computing environments
