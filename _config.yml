@@ -89,7 +89,7 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Conference Venue"
+locationBlockTitle: "Venue"
 eventLocationName: "University of Bamberg"
 eventLocationLink: "https://www.uni-bamberg.de/en/"
 eventStreetAddress: "An der Weberei 5"
