@@ -222,8 +222,8 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Bamberg"
 directionDetailsCards:
- - {title: "From the Airport", information: 'The closest airport to Bamberg is Nuremberg Airport. Within one hour, Bamberg is easily reachable by car, public transport or taxi. Also, Germany''s bigger international airports Frankfurt Airport and Munich airport are within reach of two to three hours.'}
- - {title: "Public Transit", information: 'From the train station and within the city, it is easy to use public transport like the bus or a taxi. A lot of sites and locations are also in walking distance of the conference location and hotels.'}
+ - {title: "From the Airport", information: 'The closest airport to Bamberg is <a href="https://www.airport-nuernberg.de/english">Nuremberg Airport</a>. Within one hour, Bamberg is easily reachable by car, public transport or taxi. Also, Germany''s bigger international airports <a href="https://www.frankfurt-airport.com/en/flights---more/flights.html">Frankfurt Airport</a> and <a href="https://www.munich-airport.com/passengers-visitors-75328">Munich Airport</a> are within reach of two to three hours.'}
+ - {title: "Public Transit", information: 'From the train station and within the city, it is easy to use public transport like <a href="http://www.vgn.de/CFF6B06F-C0B4-11D7-AE44-00034709FE0C">the bus</a> or a taxi. A lot of sites and locations are also in walking distance of the conference location and hotels.'}
  - {title: "Hotels", information: 'Bamberg has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
  -
@@ -235,20 +235,20 @@ directionDetailsWideCards:
      - {link: "https://www.bestwestern.com/en_US/book/hotel-details.95387.html", text: "Best Western Hotel Bamberg"}
      - {link: "https://www.welcome-hotels.com/en/welcome-kongresshotel-bamberg/info/", text: "Welcome Kongresshotel Bamberg"}
      - {link: "http://www.ibis.com/gb/hotel-8394-ibis-budget-bamberg/index.shtml", text: "Hotel ibis budget Bamberg"}
-   -
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+ #  -
+ #   title: "Registration"
+ #   links:
+ #    - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+ #    - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+ #    - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+ #    - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+ #  -
+ #   title: "Attendance Details"
+ #   links:
+ #    - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+ #    - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+ #    - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+ #    - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
