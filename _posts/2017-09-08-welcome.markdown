@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Welcome to IEEE SOSE 2018"
+date:   2017-09-07 09:00:00
+isStaticPost: false
+---
+#### Welcome to IEEE SOSE 2018 in Bamberg
+
+We are proud to announce that the 12th IEEE International Symposium on Service-Oriented System Engineering will be held in Bamberg, Germany, March 26 – 29, 2018.
+
+Starting from 2005, SOSE is one of the pioneering symposia devoted to the research in engineering service-oriented systems, from the architecture and computing paradigm to the development and management. 
+Continuing the tradition of the last eleven SOSE Symposia, the 12th SOSE intends to provide a forum for researchers and practitioners to exchange latest observations, insights, achievements and visions in Service-Oriented System Engineering. Particularly, SOSE 2018 invites original submissions in all the areas of the system engineering and software engineering methods, techniques, tools, applications, and experiments for software services.
+
+##### About Bamberg
+
+Bamberg is located in the southern part of Germany in Bavaria and the province of Upper Franconia. Most parts of Germany can easily be reached from Bamberg by train and also Poland and the Czech Republic are close by. Munich and Frankfurt, together with their international airports, are reachable by train within two to three hours. The international airport of Nuremberg is even closer.
+
+Bamberg has a long and interesting history. It survived the second world war unharmed, which makes its old town is the biggest historical city core in all of Germany. In fact, the entire inner city is a UNESCO world heritage city today. Distances are short and the conference location will be a ten minute walk from the historical center. 
+
+Apart form historical and medieval buildings like the Dom and the Altenburg, Bamberg is known for its rich and diverse brewing tradition. Ten private breweries in the city and additionally more than 90 breweries in the close surroundings provide the region with the highest density of breweries in the entire world. Like the famous Schlenkerla, which was first mentioned in 1405, many of the breweries have hundreds of years in experience brewing. 
+
+##### Keep up to date
+
+Shortly, we will be updating the website with more information on all organizational and traveling aspects. You should be aware that the submission deadline for research papers is set to November 20, 2017 and more information on the submission process will follow.
+
+We are looking forward to meet you at IEEE SOSE 2018!
