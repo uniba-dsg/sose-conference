@@ -30,7 +30,7 @@ organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+twitterAccount: "@"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -45,8 +45,8 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "News"}
  - {permalink: "/blog/call-for-papers", text: "Call for Papers"}
- - {permalink: "/schedule/", text: "Program"}
- - {permalink: "/speakers/", text: "Keynotes"}
+# - {permalink: "/schedule/", text: "Program"}
+# - {permalink: "/speakers/", text: "Keynotes"}
  - {permalink: "/team/", text: "Organizers"}
  - {permalink: "/logistics/", text: "Travel Info"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
@@ -66,7 +66,7 @@ heroButtons:
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About SOSE"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -117,7 +117,7 @@ venueFeatures: ["UNESCO World Heritage"]
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+twitterHashTag: "sose2017"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -188,7 +188,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:stefan.kolb@uni-bamberg.de", text: "stefan.kolb@uni-bamberg.de"}
  -
   title: "FAQ"
   links:
@@ -214,17 +214,17 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "49.903256, 10.869848"
+logisticsMapMobileCenterCoordinates: "49.903256, 10.869848"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Get around Bamberg"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "From the Airport", information: 'The closest airport to Bamberg is Nuremberg Airport. Within one hour, Bamberg is easily reachable by car, public transport or taxi. Also, Germany's bigger international airports Frankfurt Airport and Munich airport are within reach of two to three hours.'}
+ - {title: "Public Transit", information: 'From the train station and within the city, it is easy to use public transport like the bus or a taxi. A lot of sites and locations are also in walking distance of the conference location and hotels.'}
+ - {title: "Hotels", information: 'Bamberg has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
@@ -232,10 +232,9 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://www.bestwestern.com/en_US/book/hotel-details.95387.html", text: "Best Western Hotel Bamberg"}
+     - {link: "https://www.welcome-hotels.com/en/welcome-kongresshotel-bamberg/info/", text: "Welcome Kongresshotel Bamberg"}
+     - {link: "http://www.ibis.com/gb/hotel-8394-ibis-budget-bamberg/index.shtml", text: "Hotel ibis budget Bamberg"}
    -
     title: "Registration"
     links:
