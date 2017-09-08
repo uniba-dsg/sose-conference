@@ -222,7 +222,7 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Bamberg"
 directionDetailsCards:
- - {title: "From the Airport", information: 'The closest airport to Bamberg is Nuremberg Airport. Within one hour, Bamberg is easily reachable by car, public transport or taxi. Also, Germany's bigger international airports Frankfurt Airport and Munich airport are within reach of two to three hours.'}
+ - {title: "From the Airport", information: 'The closest airport to Bamberg is Nuremberg Airport. Within one hour, Bamberg is easily reachable by car, public transport or taxi. Also, Germany\'s bigger international airports Frankfurt Airport and Munich airport are within reach of two to three hours.'}
  - {title: "Public Transit", information: 'From the train station and within the city, it is easy to use public transport like the bus or a taxi. A lot of sites and locations are also in walking distance of the conference location and hotels.'}
  - {title: "Hotels", information: 'Bamberg has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
