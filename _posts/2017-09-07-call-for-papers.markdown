@@ -99,8 +99,8 @@ The topics include, but are not limited to, the following:
 * Engineering techniques and tools to support the publishing, discovery and composition of services
 * Architectural and detail designs of services and code generation of service software
 
-IMPORTANT DATES
-===============
+##### Important Dates
+
 Workshop Proposal: 		16 October 2017
 Submission Deadline:		20 November 2017
 Authors Notification:		15 January 2018
@@ -108,12 +108,12 @@ Camera-ready Paper:		01 February 2018
 Registration Due:			01 February 2018
 Conference Dates:			26 – 29 March 2018
 
-JOURNAL SPECIAL ISSUES
-====================== 
+##### Journal Special Issues
+
 Distinguished papers selected from the conferences and associated workshops, after further extensions, will be recommended for submission and publication in the prestigious journals or their Special Issues. 
 
-PAPER SUBMISSION GUIDELINE
-========================== 
+##### Paper Submission Guidelines
+
 All papers need to be submitted electronically using the EasyChair conference system with PDF format. The materials presented in the papers should not be published or under submission elsewhere. Each paper is limited to 10 pages including figures and references using IEEE Computer Society Proceedings Manuscripts style (two columns, single-spaced, 10 fonts). You can confirm the IEEE Computer Society Proceedings Author Guidelines at the following web page: https://www.ieee.org/conferences_events/conferences/publishing/templates.html
 
 Once accepted, the paper will be included into the IEEE conference proceedings published by IEEE Computer Society Press (indexed by EI). 
