@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Service-oriented System Engineering (SOSE) 2018"
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/sose-conference"
+baseurl: "/"
 url: "http://uniba-dsg.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -62,7 +62,7 @@ eventDate: "March 26 - 29, 2018"
 typeoutTextValues: '"", "Service-oriented System Engineering", "SOSE"'
 typeoutFallback: "SOSE"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Call for papers"}
+# - {link: "/blog/call-for-papers", text: "Call for papers"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -219,7 +219,7 @@ logisticsMapMobileCenterCoordinates: "49.903256, 10.869848"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
+directionDetailsImage: "direction-details.png"
 directionDetailsTitle: "Get around Bamberg"
 directionDetailsCards:
  - {title: "From the Airport", information: 'The closest airport to Bamberg is <a href="https://www.airport-nuernberg.de/english">Nuremberg Airport</a>. Within one hour, Bamberg is easily reachable by car, public transport or taxi. Also, Germany''s bigger international airports <a href="https://www.frankfurt-airport.com/en/flights---more/flights.html">Frankfurt Airport</a> and <a href="https://www.munich-airport.com/passengers-visitors-75328">Munich Airport</a> are within reach of two to three hours.'}
@@ -232,9 +232,9 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://www.bestwestern.com/en_US/book/hotel-details.95387.html", text: "Best Western Hotel Bamberg"}
-     - {link: "https://www.welcome-hotels.com/en/welcome-kongresshotel-bamberg/info/", text: "Welcome Kongresshotel Bamberg"}
-     - {link: "http://www.ibis.com/gb/hotel-8394-ibis-budget-bamberg/index.shtml", text: "Hotel ibis budget Bamberg"}
+     - {link: "https://www.bestwestern.com/en_US/book/hotel-details.95387.html", text: "Best Western Hotel"}
+     - {link: "https://www.welcome-hotels.com/en/welcome-kongresshotel-bamberg/info/", text: "Welcome Kongresshotel"}
+     - {link: "http://www.ibis.com/gb/hotel-8394-ibis-budget-bamberg/index.shtml", text: "Hotel ibis budget"}
  #  -
  #   title: "Registration"
  #   links:
