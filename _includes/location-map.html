@@ -8,7 +8,7 @@
                     <h3>{{ site.locationBlockTitle }}</h3>
                     <ul>
                         {% if site.eventLocationName %}
-						<a href="mailto:{{ site.eventLocationLink }}">
+						<a href="{{ site.eventLocationLink }}" target="_blank">
 						<li>{{ site.eventLocationName }}</li>
 						</a>
 						{% endif %}

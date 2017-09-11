@@ -72,7 +72,7 @@ aboutTitle: "About SOSE"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Starting from 2005, SOSE is one of the pioneering symposia devoted to the research in engineering service-oriented systems, from the architecture and computing paradigm to the development and management." }
  - {title: "Workshops", image: "workshop.jpg", text: "We are in the process of preparing several workshops for this years' conference. You can also submit proposals and ideas for workshops. See the <a href='/blog/call-for-papers'>Call for Papers</a> for more information." }
- - {title: "Events", image: "hackathon.jpg", text: "We are proud to announce that SOSE will be co-located with two other top conferences within the services and cloud computing field, <a href='http://big-dataservice.net/'>IEEE BigDataServices</a> and <a href='http://www.mobile-cloud.net/'>IEEE MobileCloud</a>." }
+ - {title: "Events", image: "hackathon.jpg", text: "We are proud to announce that SOSE will be co-located with two other top conferences within the services and cloud computing field, <a href='http://big-dataservice.net/' target='_blank'>IEEE BigDataServices</a> and <a href='http://www.mobile-cloud.net/' target='_blank'>IEEE MobileCloud</a>." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -220,9 +220,9 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Bamberg"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Bamberg is easily reachable by public transport, car or taxi from multiple airports within one to three hours. The closest airports are <a href="https://www.airport-nuernberg.de/english">Nuremberg Airport</a>, <a href="https://www.munich-airport.com/passengers-visitors-75328">Munich Airport</a> and <a href="https://www.frankfurt-airport.com/en/flights---more/flights.html">Frankfurt Airport</a>.'}
- - {title: "Public Transit", information: 'From the train station and within the city, it is easy to use public transport like <a href="http://www.vgn.de/CFF6B06F-C0B4-11D7-AE44-00034709FE0C">the bus</a> or a taxi. A lot of sites and locations are also in walking distance of the conference location and hotels.'}
- - {title: "Conference Hotel", information: 'The conference will take place at the <a href="https://www.welcome-hotels.com/en/welcome-kongresshotel-bamberg/info/">Welcome Congress Hotel Bamberg</a>. More information on conference rates and booking will be available later.'}
+ - {title: "From the Airport", information: 'Bamberg is easily reachable by public transport, car or taxi from multiple airports within one to three hours. The closest airports are <a href="https://www.airport-nuernberg.de/english" target="_blank">Nuremberg Airport</a>, <a href="https://www.munich-airport.com/passengers-visitors-75328" target="_blank">Munich Airport</a> and <a href="https://www.frankfurt-airport.com/en/flights---more/flights.html" target="_blank">Frankfurt Airport</a>.'}
+ - {title: "Public Transit", information: 'From the train station and within the city, it is easy to use public transport like <a href="http://www.vgn.de/CFF6B06F-C0B4-11D7-AE44-00034709FE0C" target="_blank">the bus</a> or a taxi. A lot of sites and locations are also in walking distance of the conference location and hotels.'}
+ - {title: "Conference Hotel", information: 'The conference will take place at the <a href="https://www.welcome-hotels.com/en/welcome-kongresshotel-bamberg/info/" target="_blank">Welcome Congress Hotel Bamberg</a>. More information on conference rates and booking will be available later.'}
 directionDetailsWideCards:
  -
   title: "Questions?"

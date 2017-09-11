@@ -14,6 +14,15 @@ The innovations of SOC also offer many interesting avenues of research for scien
 
 Continuing the tradition of the last eleven SOSE Symposia, the 12th SOSE intends to provide a forum for researchers and practitioners to exchange latest observations, insights, achievements and visions in Service-Oriented System Engineering. Particularly, SOSE 2018 invites original submissions in all the areas of the system engineering and software engineering methods, techniques, tools, applications, and experiments for software services.
 
+##### Important Dates
+
+Workshop Proposal: <span style="color:red">__16 October 2017__</span><br>
+Submission Deadline: __20 November 2017__<br>
+Authors Notification: __15 January 2018__<br>
+Camera-ready Paper: __01 February 2018__<br>
+Registration Due: __01 February 2018__<br>
+Conference Dates: __26 – 29 March 2018__<br>
+
 ##### Regular Research Papers
 
 Research papers should be no more than __10 pages__ in length. The topics include, but are not limited to, the following:
@@ -106,15 +115,6 @@ The topics include, but are not limited to, the following:
 * Governance and policies in service-oriented software development
 * Engineering techniques and tools to support the publishing, discovery and composition of services
 * Architectural and detail designs of services and code generation of service software
-
-##### Important Dates
-
-Workshop Proposal: 16 October 2017<br>
-Submission Deadline: 20 November 2017<br>
-Authors Notification: 15 January 2018<br>
-Camera-ready Paper: 01 February 2018<br>
-Registration Due: 01 February 2018<br>
-Conference Dates: 26 – 29 March 2018<br>
 
 ##### Journal Special Issues
 
