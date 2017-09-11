@@ -10,34 +10,36 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Service-oriented System Engineering (SOSE) 2018"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "Symposium on Service-Oriented System Engineering (SOSE) 2018"
+email: ""
+description: "Renowned international conference on service-oriented system engineering."
 baseurl: "/"
 url: "http://uniba-dsg.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: ""
+googleAnalyticsSiteUrl: ""
+siteVerification: ""
+
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerName: "University of Bamberg, DSG"
+organizerAlternateName: "University of Bamberg, Distributed Systems Group"
+organizerDescription: ""
+organizerEmail: ""
+organizerLogo: "/img/seo/ub-logo.png"
+organizerLink: "https://www.uni-bamberg.de/en/pi/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "conference, event, ieee, soa, bamberg, symposium, computer, science, academia"
 twitterAccount: "@"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
-# Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+# CFP Documents
+submissionLink: ""
+c4pUrl: "/blog/call-for-papers"
+c4sponsorsUrl: ""
 
 
 # Navigation
@@ -47,19 +49,19 @@ navigationLinks:
  - {permalink: "/blog/call-for-papers", text: "Call for Papers"}
 # - {permalink: "/schedule/", text: "Program"}
 # - {permalink: "/speakers/", text: "Keynotes"}
- - {permalink: "/team/", text: "Organizers"}
+# - {permalink: "/team/", text: "Organizers"}
  - {permalink: "/logistics/", text: "Travel Info"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "", text: "Submit a paper"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "", text: "Submit a paper"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "<typeout> 2018"
 eventDate: "March 26 - 29, 2018"
-typeoutTextValues: '"", "Service-oriented System Engineering", "SOSE"'
+typeoutTextValues: '"", "Service-Oriented System Engineering", "SOSE"'
 typeoutFallback: "SOSE"
 heroButtons:
 # - {link: "/blog/call-for-papers", text: "Call for papers"}
@@ -68,9 +70,9 @@ heroButtons:
 # About Block
 aboutTitle: "About SOSE"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conference", image: "conference.jpg", text: "Starting from 2005, SOSE is one of the pioneering symposia devoted to the research in engineering service-oriented systems, from the architecture and computing paradigm to the development and management." }
+ - {title: "Workshops", image: "workshop.jpg", text: "We are in the process of preparing several workshops for this years' conference. You can also submit proposals and ideas for workshops. See the <a href='/blog/call-for-papers'>Call for Papers</a> for more information." }
+ - {title: "Events", image: "hackathon.jpg", text: "We are proud to announce that SOSE will be co-located with two other top conferences within the services and cloud computing field, <a href='http://big-dataservice.net/'>IEEE BigDataServices</a> and <a href='http://www.mobile-cloud.net/'>IEEE MobileCloud</a>." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -117,8 +119,8 @@ venueFeatures: ["UNESCO World Heritage"]
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "sose2017"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "sose2018"
+twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -176,28 +178,24 @@ ticketsOffers:
 # Footer
 socialLinks:
 # - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+ - {link: "https://twitter.com/intent/user?screen_name=soseconference", icon: "twitter"}
 # - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
+   - {link: "https://www.uni-bamberg.de/en/", text: "University of Bamberg"}
    - {link: "https://www.uni-bamberg.de/en/pi/", text: "Distributed Systems Group"}
-#   - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:stefan.kolb@uni-bamberg.de", text: "stefan.kolb@uni-bamberg.de"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+#   - {link: "mailto:guido.wirtz@uni-bamberg.de", text: "stefan.kolb@uni-bamberg.de"}
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "devfestua"
+blogCommentsEnabled: false
+discusShortName: "sose2018"
 
 # Speakers List Block
 showSessions: true
@@ -219,12 +217,12 @@ logisticsMapMobileCenterCoordinates: "49.903256, 10.869848"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "direction-details.png"
+directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Bamberg"
 directionDetailsCards:
- - {title: "From the Airport", information: 'The closest airport to Bamberg is <a href="https://www.airport-nuernberg.de/english">Nuremberg Airport</a>. Within one hour, Bamberg is easily reachable by car, public transport or taxi. Also, Germany''s bigger international airports <a href="https://www.frankfurt-airport.com/en/flights---more/flights.html">Frankfurt Airport</a> and <a href="https://www.munich-airport.com/passengers-visitors-75328">Munich Airport</a> are within reach of two to three hours.'}
+ - {title: "From the Airport", information: 'Bamberg is easily reachable by public transport, car or taxi from multiple airports within one to three hours. The closest airports are <a href="https://www.airport-nuernberg.de/english">Nuremberg Airport</a>, <a href="https://www.munich-airport.com/passengers-visitors-75328">Munich Airport</a> and <a href="https://www.frankfurt-airport.com/en/flights---more/flights.html">Frankfurt Airport</a>.'}
  - {title: "Public Transit", information: 'From the train station and within the city, it is easy to use public transport like <a href="http://www.vgn.de/CFF6B06F-C0B4-11D7-AE44-00034709FE0C">the bus</a> or a taxi. A lot of sites and locations are also in walking distance of the conference location and hotels.'}
- - {title: "Hotels", information: 'Bamberg has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Conference Hotel", information: 'The conference will take place at the <a href="https://www.welcome-hotels.com/en/welcome-kongresshotel-bamberg/info/">Welcome Congress Hotel Bamberg</a>. More information on conference rates and booking will be available later.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
@@ -252,7 +250,7 @@ directionDetailsWideCards:
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: true
+enableHackathon: false
 
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
