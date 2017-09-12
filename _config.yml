@@ -71,7 +71,7 @@ heroButtons:
 aboutTitle: "About SOSE"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Starting from 2005, SOSE is one of the pioneering symposia devoted to the research in engineering service-oriented systems, from the architecture and computing paradigm to the development and management." }
- - {title: "Workshops", image: "workshop.jpg", text: "We are in the process of preparing several workshops for this years' conference. You can also submit proposals and ideas for workshops. See the <a href='/blog/call-for-papers'>Call for Papers</a> for more information." }
+ - {title: "Workshops", image: "workshop.jpg", text: "We are in the process of preparing several workshops for this years' conference. You can also submit proposals and ideas for workshops. See the <a href='/blog/call-for-workshops'>Call for Workshops</a> for more information." }
  - {title: "Events", image: "hackathon.jpg", text: "We are proud to announce that SOSE will be co-located with two other top conferences within the services and cloud computing field, <a href='http://big-dataservice.net/' target='_blank'>IEEE BigDataServices</a> and <a href='http://www.mobile-cloud.net/' target='_blank'>IEEE MobileCloud</a>." }
 
 # Statistic Block
