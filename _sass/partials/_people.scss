@@ -1,0 +1,18 @@
+.people {
+	h2 {
+        font-size: 16px;
+        font-weight: $regular;
+        margin: 0;
+        word-spacing: -2px;
+        text-transform: uppercase;
+        color: #3c4a50;
+        span {
+            font-weight: $bold;
+        }
+    }
+	
+	text-align: center;
+	margin-top: 26px;	
+    margin-bottom: 26px;
+    height: 50px;
+}

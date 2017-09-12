@@ -49,7 +49,7 @@ navigationLinks:
  - {permalink: "/blog/call-for-papers", text: "Call for Papers"}
 # - {permalink: "/schedule/", text: "Program"}
 # - {permalink: "/speakers/", text: "Keynotes"}
-# - {permalink: "/team/", text: "Organizers"}
+ - {permalink: "/team/", text: "Organizers"}
  - {permalink: "/logistics/", text: "Travel Info"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:

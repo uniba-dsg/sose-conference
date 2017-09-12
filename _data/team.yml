@@ -2,72 +2,126 @@
   id: 0
   name: "Guido"
   surname: "Wirtz"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+  title: "University of Bamberg, Germany"
+  thumbnailUrl: guidowirtz.jpg
+  local: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "email", link: "mailto:guido.wirtz@uni-bamberg.de"}
+    - {name: "site", link: "https://www.uni-bamberg.de/en/pi/team/wirtz/"}
 - 
   id: 1
+  name: "Frank"
+  surname: "Leymann"
+  title: "University of Stuttgart, Germany"
+  thumbnailUrl: frankleymann.jpg
+  chair: true
+  social: 
+#    - {name: "email", link: "mailto:Leymann@iaas.uni-stuttgart.de"}
+    - {name: "site", link: "http://www.iaas.uni-stuttgart.de/institut/mitarbeiter/leymann/indexE.php"}
+-
+  id: 2
   name: "Jerry"
   surname: "Gao"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+  title: "San Jose State University, United States"
+  thumbnailUrl: jerrygao.jpg
+  finance: true
+  steering: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "email", link: "jerry.gao @sjsu.edu"}
+    - {name: "email", link: "mailto:jerry.gao@sjsu.edu"}
+    - {name: "site", link: "https://cmpe.sjsu.edu/profile/jerry-gao"}
 - 
-  id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+  id: 3
+  name: "Dustdar"
+  surname: "Schahram"
+  title: "TU Wien, Austria"
+  thumbnailUrl: sharamdustdar.jpg
+  chair: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+#    - {name: "email", link: "mailto:dustdar@infosys.tuwien.ac.at"}
+    - {name: "site", link: "http://www.infosys.tuwien.ac.at/staff/sd/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  name: "Townend"
+  surname: "Paul"
+  title: "University of Leeds, United Kingdom"
+  thumbnailUrl: paultownend.jpg
+  chair: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+#    - {name: "email", link: "P.M.Townend@leeds.ac.uk"}
+    - {name: "site", link: "https://engineering.leeds.ac.uk/staff/366/paul_townend"}
+- 
+  id: 5
+  name: "Lenhard"
+  surname: "Joerg"
+  title: "University of Karlstad, Sweden"
+  thumbnailUrl: joerglenhard.jpg
+  pcchair: true
+  social: 
+    - {name: "email", link: "joerg.lenhard@kau.se"}
+    - {name: "site", link: "https://www.kau.se/en/researchers/jorg-lenhard"}
+- 
+  id: 6
+  name: "Yan"
+  surname: "Wang"
+  title: "MacQuarie University, Australia"
+  thumbnailUrl: yanwang.jpg
+  pcchair: true
+  social: 
+    - {name: "email", link: "yan.wang@mq.edu.au"}
+    - {name: "site", link: "http://comp.mq.edu.au/~yanwang/"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  name: "Fanjing"
+  surname: "Meng"
+  title: "IBM Research Lab Beijing, China"
+  thumbnailUrl: ""
+  pcchair: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "email", link: "mengfj@cn.ibm.com"}
+    - {name: "site", link: "http://researcher.ibm.com/researcher/view.php?person=cn-mengfj"}    
 - 
   id: 8
   name: "Stefan"
   surname: "Kolb"
-  title: "University of Bamberg"
-  pc: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+  title: "University of Bamberg, Germany"
+  web: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}    
+    - {name: "site", link: "https://www.uni-bamberg.de/en/pi/team/kolb-stefan/"}
+- 
+  id: 9
+  name: "Johannes"
+  surname: "Manner"
+  title: "University of Bamberg, Germany"
+  web: true
+  social: 
+    - {name: "site", link: "https://www.uni-bamberg.de/en/pi/team/manner-johannes/"}    
+- 
+  id: 10
+  name: "Wei-Tek"
+  surname: "Tsai"
+  title: "Beihang University, China"
+  thumbnailUrl: ""
+  steering: true
+  social: 
+#    - {name: "email", link: "johannes.manner@uni-bamberg.de"}
+#    - {name: "site", link: "https://www.uni-bamberg.de/en/pi/team/manner-johannes/"}    
+- 
+  id: 11
+  name: "Jie"
+  surname: "Xu"
+  title: "Leeds University, United Kingdom"
+  thumbnailUrl: ""
+  steering: true
+  social: 
+#    - {name: "email", link: "johannes.manner@uni-bamberg.de"}
+#    - {name: "site", link: "https://www.uni-bamberg.de/en/pi/team/manner-johannes/"} 
+- 
+  id: 12
+  name: "Hong"
+  surname: "Zhu"
+  title: "Oxford Brookes University, United Kingdom"
+  thumbnailUrl: hongzhu.jpg
+  steering: true
+  social: 
+#    - {name: "email", link: "johannes.manner@uni-bamberg.de"}
+    - {name: "site", link: "http://cms.brookes.ac.uk/staff/HongZhu/"}     
