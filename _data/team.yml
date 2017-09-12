@@ -31,8 +31,8 @@
     - {name: "site", link: "https://cmpe.sjsu.edu/profile/jerry-gao"}
 - 
   id: 3
-  name: "Dustdar"
-  surname: "Schahram"
+  name: "Schahram"
+  surname: "Dustdar"
   title: "TU Wien, Austria"
   thumbnailUrl: sharamdustdar.jpg
   chair: true
@@ -41,8 +41,8 @@
     - {name: "site", link: "http://www.infosys.tuwien.ac.at/staff/sd/"}
 - 
   id: 4
-  name: "Townend"
-  surname: "Paul"
+  name: "Paul"
+  surname: "Townend"
   title: "University of Leeds, United Kingdom"
   thumbnailUrl: paultownend.jpg
   chair: true
@@ -51,8 +51,8 @@
     - {name: "site", link: "https://engineering.leeds.ac.uk/staff/366/paul_townend"}
 - 
   id: 5
-  name: "Lenhard"
-  surname: "Joerg"
+  name: "Joerg"
+  surname: "Lenhard"
   title: "University of Karlstad, Sweden"
   thumbnailUrl: joerglenhard.jpg
   pcchair: true
@@ -120,7 +120,7 @@
   name: "Hong"
   surname: "Zhu"
   title: "Oxford Brookes University, United Kingdom"
-  thumbnailUrl: hongzhu.jpg
+  thumbnailUrl: hongzhu.JPG
   steering: true
   social: 
 #    - {name: "email", link: "johannes.manner@uni-bamberg.de"}
