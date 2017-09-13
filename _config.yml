@@ -37,9 +37,9 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # CFP Documents
-submissionLink: ""
+submissionLink: "https://easychair.org/conferences/?conf=sose2018"
 c4pUrl: "/blog/call-for-papers"
-c4sponsorsUrl: ""
+c4sponsorsUrl: "mailto:guido.wirtz@uni-bamberg.de"
 
 
 # Navigation
@@ -53,9 +53,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Travel Info"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "", text: "Submit a paper"}
+ - {link: "https://easychair.org/conferences/?conf=sose2018", text: "Submit a paper"}
 rightNavigationButtons:
- - {link: "", text: "Submit a paper"}
+ - {link: "https://easychair.org/conferences/?conf=sose2018", text: "Submit a paper"}
 
 # Hero Block
 heroImage: "hero.jpg"

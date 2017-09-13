@@ -128,4 +128,4 @@ All papers need to be submitted electronically using the EasyChair conference sy
 Once accepted, the paper will be included into the IEEE conference proceedings published by IEEE Computer Society Press (indexed by EI). 
 
 Paper submission links:
-(To be added)
+[https://easychair.org/conferences/?conf=sose2018](https://easychair.org/conferences/?conf=sose2018)
