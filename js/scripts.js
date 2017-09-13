@@ -361,9 +361,9 @@
             }];
 
             var mapOptions = {
-                zoom: 17,
+                zoom: 3,
                 minZoom: 2,
-                scrollwheel: false,
+                scrollwheel: true,
                 panControl: false,
                 draggable: true,
                 zoomControl: false,
@@ -386,7 +386,7 @@
                 mapOptions.zoom = 5;
                 mapOptions.zoomControl = true;
             }
-
+			
             map = new google.maps.Map(document.getElementById('canvas-map'), mapOptions);
             var marker = new google.maps.Marker({
                 position: eventPlace,
