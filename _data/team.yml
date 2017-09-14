@@ -125,3 +125,19 @@
   social: 
 #    - {name: "email", link: "johannes.manner@uni-bamberg.de"}
     - {name: "site", link: "http://cms.brookes.ac.uk/staff/HongZhu/"}     
+- 
+  id: 13
+  name: "Oliver"
+  surname: "Kopp"
+  title: "University of Stuttgart, Germany"
+  publicity: true
+  social: 
+    - {name: "site", link: "http://www.iaas.uni-stuttgart.de/institut/mitarbeiter/kopp/"}    
+- 
+  id: 14
+  name: "Gregor"
+  surname: "Scheithauer"
+  title: "metafinanz Informationssysteme GmbH, Germany"
+  publicity: true
+  social: 
+    - {name: "site", link: "http://gregorscheithauer.de/"}    
