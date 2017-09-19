@@ -332,7 +332,7 @@
    -  name: site
       link: http://www.lamsade.dauphine.fr/~elhaddad/
    surname: El Haddad
-   title: "Universit\ufffd Paris Dauphine, France"
+   title: Universite Paris Dauphine, France
 - !de.uniba.dsg.reviews.Member
    name: Marcelo
    pc: true
@@ -340,7 +340,7 @@
    -  name: site
       link: http://each.uspnet.usp.br/fantinato/
    surname: Fantinato
-   title: "University of S\ufffdo Paulo, Brazil"
+   title: University of Sao Paulo, Brazil
 - !de.uniba.dsg.reviews.Member
    name: Xiaoying
    pc: true
