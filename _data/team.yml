@@ -74,7 +74,7 @@
   name: "Fanjing"
   surname: "Meng"
   title: "IBM Research Lab Beijing, China"
-  thumbnailUrl: ""
+  thumbnailUrl: fanjingmeng.png
   pcchair: true
   social: 
     - {name: "email", link: "mengfj@cn.ibm.com"}
@@ -100,7 +100,7 @@
   name: "Wei-Tek"
   surname: "Tsai"
   title: "Beihang University, China"
-  thumbnailUrl: ""
+  thumbnailUrl: weitektsai.jpg
   steering: true
   social: 
 #    - {name: "email", link: "johannes.manner@uni-bamberg.de"}
@@ -110,7 +110,7 @@
   name: "Jie"
   surname: "Xu"
   title: "Leeds University, United Kingdom"
-  thumbnailUrl: ""
+  thumbnailUrl: jiexu.jpg
   steering: true
   social: 
 #    - {name: "email", link: "johannes.manner@uni-bamberg.de"}
