@@ -485,3 +485,11 @@
       link: http://www.yang-hongji.co.uk/
    surname: Yang
    title: Bath Spa University, UK
+- !de.uniba.dsg.reviews.Member
+   name: Daniel
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://www.cc.uah.es/drg/
+   surname: Rodriguez
+   title: University of Alcala, Spain
