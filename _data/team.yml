@@ -493,3 +493,11 @@
       link: http://www.cc.uah.es/drg/
    surname: Rodriguez
    title: University of Alcala, Spain
+- !de.uniba.dsg.reviews.Member
+   name: Amir
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: https://folk.uio.no/amirhost/
+   surname: Taherkordi
+   title: University of Oslo, Norway
