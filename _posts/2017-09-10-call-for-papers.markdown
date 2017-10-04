@@ -125,7 +125,7 @@ Distinguished papers selected from the conferences and associated workshops, aft
 
 All papers need to be submitted electronically using the EasyChair conference system with PDF format. The materials presented in the papers should not be published or under submission elsewhere. Each paper is limited to 10 pages including figures and references using IEEE Computer Society Proceedings Manuscripts style (two columns, single-spaced, 10 fonts). You can confirm the IEEE Computer Society Proceedings Author Guidelines at the following web page: [https://www.ieee.org/conferences_events/conferences/publishing/templates.html](https://www.ieee.org/conferences_events/conferences/publishing/templates.html)
 
-Once accepted, the paper will be included into the IEEE conference proceedings published by IEEE Computer Society Press (indexed by EI). 
+Once accepted, the paper will be included in the conference proceedings and will be submitted for inclusion to IEEE Xplore as well as other Abstracting and Indexing (A&I) databases.
 
 Paper submission links:
 [https://easychair.org/conferences/?conf=sose2018](https://easychair.org/conferences/?conf=sose2018)
