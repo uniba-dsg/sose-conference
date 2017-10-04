@@ -501,3 +501,11 @@
       link: https://folk.uio.no/amirhost/
    surname: Taherkordi
    title: University of Oslo, Norway
+- !de.uniba.dsg.reviews.Member
+   name: Wolfang
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: https://www.software-systementwicklung.de/
+   surname: Golubski
+   title: Westsaechsische Hochschule Zwickau	Germany
