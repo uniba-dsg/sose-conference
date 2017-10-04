@@ -502,7 +502,7 @@
    surname: Taherkordi
    title: University of Oslo, Norway
 - !de.uniba.dsg.reviews.Member
-   name: Wolfang
+   name: Wolfgang
    pc: true
    social: !java.util.Arrays$ArrayList
    -  name: site
