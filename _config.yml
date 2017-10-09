@@ -52,7 +52,7 @@ navigationLinks:
 # - {permalink: "/speakers/", text: "Keynotes"}
  - {permalink: "/team/", text: "Organizers"}
  - {permalink: "/logistics/", text: "Travel Info"}
- - {permalink: "/blog/colocated-events/", text: "Co-located Events"}
+ - {permalink: "/blog/colocated-events", text: "Co-located Events"}
 bottomNavigationLinks:
  - {link: "https://easychair.org/conferences/?conf=sose2018", text: "Submit a paper"}
 rightNavigationButtons:
