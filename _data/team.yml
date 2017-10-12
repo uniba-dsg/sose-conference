@@ -244,7 +244,7 @@
    -  name: site
       link: http://www.swt.tu-berlin.de/menue/team/jan_suermeli
    surname: Suermeli
-   title: Humboldt-Universitaet zu Berlin, Germany
+   title: Technische Universitaet Berlin, Germany
 - !de.uniba.dsg.reviews.Member
    name: Jerry
    pc: true
