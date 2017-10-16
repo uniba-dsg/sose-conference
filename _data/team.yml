@@ -509,3 +509,11 @@
       link: https://www.software-systementwicklung.de/
    surname: Golubski
    title: Westsaechsische Hochschule Zwickau, Germany
+- !de.uniba.dsg.reviews.Member
+   name: Uwe
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://www.iaas.uni-stuttgart.de/institut/mitarbeiter/breitenbuecher/indexE.php
+   surname: Breitenbuecher
+   title: University of Stuttgart, Germany
