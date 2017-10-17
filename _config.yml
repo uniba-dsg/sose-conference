@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "News"}
  - {permalink: "/blog/call-for-papers", text: "Call for Papers"}
- - {permalink: "/blog/call-for-workshops", text: "Call for Workshops"}
+# - {permalink: "/blog/call-for-workshops", text: "Call for Workshops"}
 # - {permalink: "/schedule/", text: "Program"}
 # - {permalink: "/speakers/", text: "Keynotes"}
  - {permalink: "/team/", text: "Organizers"}
