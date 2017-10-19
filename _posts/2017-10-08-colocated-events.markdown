@@ -6,6 +6,13 @@ isStaticPost: false
 ---
 #### Co-located Events of SOSE 2018
 
-We are proud to announce that SOSE will be co-located with two other top conferences within the services and cloud computing field, [IEEE BigDataServices](http://big-dataservice.net/) and [IEEE MobileCloud](http://www.mobile-cloud.net/).
+We are proud to announce that SOSE will be co-located with two other top conferences within the services and cloud computing field:
 
-To be held in Bamberg, Germany, March 26 – 29, 2018.
+  - [IEEE BigDataServices](http://big-dataservice.net/)
+  - [IEEE MobileCloud](http://www.mobile-cloud.net/)
+
+We are also hosting these workshops at SOSE:
+
+  - [Workshop on Joint Cloud Computing](https://jointcloud.github.io/jcc2018/)
+
+All events to be held in Bamberg, Germany, March 26 – 29, 2018.
