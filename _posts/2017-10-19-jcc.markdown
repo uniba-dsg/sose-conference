@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "9th International Workshop on Joint Cloud Computing"
+date:   2017-09-08 09:00:00
+isStaticPost: false
+---
+#### 9th International Workshop on Joint Cloud Computing
+
+We have just confirmed that the 9th International Workshop on Joint Cloud Computing (JCC2018) will take place at SOSE 2018.
+
+The workshops focuses on joint cloud computing (a.k.a. JointCloud). This is a new generation of computing model for Cloud 2.0, which facilitates developers to customize cross-cloud services by means of “software definition” based on the integration and cooperation among cloud service entities. The goal of the workshop for JointCloud is to investigate theories and methods of abstracting and aggregating cross-cloud resources, building integrated virtual private clouds, as well as exploring novel applications that leverage JointCloud. Compared to previous efforts in the category of Cloud 2.0, JointCloud not only focuses on a vertical integration of cloud resources but also expects a horizontal cooperation between cloud providers in the form of service-oriented computing.
+
+[More information on the workshop can be found here](https://jointcloud.github.io/jcc2018/).
