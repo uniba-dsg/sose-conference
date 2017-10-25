@@ -111,6 +111,27 @@
         </div>
 		
 		<div class="col-lg-10 col-lg-offset-1 text-center">
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Publication chair</h4>
+            {% for teamMember in site.data.team %} {% if teamMember.publication != null %}
+			<div class="col-md-4 col-xs-4 cols-centered appear-animation people">
+
+                <h2 class="name">
+				{% if teamMember.social[0] != null %}
+				<a href="{{ teamMember.social[0]["link"] }}" target="_blank">
+				{% endif %}
+				{{ teamMember.name }} <span>{{ teamMember.surname }}</span>
+				{% if teamMember.social[0] != null %}
+				</a>
+				{% endif %}
+				</h2>
+                <div class="clearfix"></div>
+                <span class="position">{{ teamMember.title }}</span>
+
+            </div>
+            {% endif %} {% endfor %}
+        </div>
+		
+		<div class="col-lg-10 col-lg-offset-1 text-center">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Finance chair</h4>
             {% for teamMember in site.data.team %} {% if teamMember.finance != null %}
 			<div class="col-md-4 col-xs-4 cols-centered appear-animation people">

@@ -140,7 +140,15 @@
   title: "metafinanz Informationssysteme GmbH, Germany"
   publicity: true
   social: 
-    - {name: "site", link: "http://gregorscheithauer.de/"}       
+    - {name: "site", link: "http://gregorscheithauer.de/"}
+- 
+  id: 15
+  name: "Mohamed"
+  surname: "Elhoseny"
+  title: "Mansoura University, Egypt"
+  publication: true
+  social: 
+    - {name: "site", link: "http://www.mohamedelhoseny.com/"}
 - !de.uniba.dsg.reviews.Member
    name: Stefan
    pc: true
