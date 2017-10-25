@@ -146,6 +146,7 @@
   name: "Mohamed"
   surname: "Elhoseny"
   title: "Mansoura University, Egypt"
+  thumbnailUrl: mohamedelhoseny.jpg
   publication: true
   social: 
     - {name: "site", link: "http://www.mohamedelhoseny.com/"}
