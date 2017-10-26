@@ -150,6 +150,15 @@
   publication: true
   social: 
     - {name: "site", link: "http://www.mohamedelhoseny.com/"}
+    - 
+  id: 16
+  name: "Qing"
+  surname: "Yang"
+  title: "University of North Texas, United States"
+  thumbnailUrl: qingyang.jpg
+  publication: true
+  social: 
+    - {name: "site", link: "http://www.cse.unt.edu/~qingyang/"}
 - !de.uniba.dsg.reviews.Member
    name: Stefan
    pc: true
