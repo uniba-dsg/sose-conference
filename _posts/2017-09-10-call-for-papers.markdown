@@ -18,7 +18,7 @@ Continuing the tradition of the last eleven SOSE Symposia, the 12th SOSE intends
 
 Workshop Proposal: <strike>16 October 2017</strike>. See the <a href='/blog/call-for-workshops'>Call for Workshops</a> for more information.<br>
 
-Submission Deadline: <strike><span style="color:red">20 November 2017</span> <span style="color:red">__6 December 2017__</span></strike><br>
+Submission Deadline: <strike>6 December 2017</strike><br>
 Authors Notification: __15 January 2018__<br>
 Camera-ready Paper: __01 February 2018__<br>
 Registration Due: __01 February 2018__<br>
