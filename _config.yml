@@ -15,7 +15,7 @@ email: ""
 description: "Renowned international conference on service-oriented system engineering."
 baseurl: "/"
 url: "http://uniba-dsg.github.io"
-permalink: "/news/:title"
+permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
 siteVerification: ""
@@ -38,21 +38,21 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # CFP Documents
 submissionLink: "https://easychair.org/conferences/?conf=sose2018"
-c4pUrl: "/news/call-for-papers"
+c4pUrl: "/blog/call-for-papers"
 c4sponsorsUrl: "mailto:guido.wirtz@uni-bamberg.de"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/news/", text: "News"}
- - {permalink: "/news/call-for-papers", text: "Call for Papers"}
-# - {permalink: "/news/call-for-workshops", text: "Call for Workshops"}
+ - {permalink: "/blog/", text: "News"}
+ - {permalink: "/blog/call-for-papers", text: "Call for Papers"}
+# - {permalink: "/blog/call-for-workshops", text: "Call for Workshops"}
 # - {permalink: "/schedule/", text: "Program"}
 # - {permalink: "/speakers/", text: "Keynotes"}
  - {permalink: "/team/", text: "Organizers"}
  - {permalink: "/logistics/", text: "Travel Info"}
- - {permalink: "/news/colocated-events", text: "Co-located Events"}
+ - {permalink: "/blog/colocated-events", text: "Co-located Events"}
 bottomNavigationLinks:
  - {link: "https://easychair.org/conferences/?conf=sose2018", text: "Submit a paper"}
 rightNavigationButtons:
@@ -65,7 +65,7 @@ eventDate: "March 26 - 29, 2018"
 typeoutTextValues: '"", "Service-Oriented System Engineering", "SOSE"'
 typeoutFallback: "SOSE"
 heroButtons:
-# - {link: "/news/call-for-papers", text: "Call for papers"}
+# - {link: "/blog/call-for-papers", text: "Call for papers"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
