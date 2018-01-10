@@ -29,7 +29,7 @@ Paper submission links:
 
 ##### Important Dates
 
-WiP paper submission: __09 January 2018__<br>
+WiP paper submission: <strike>__09 January 2018__</strike><br>
 Acceptance Notification: __22 January 2018__<br>
 Registration Due: __01 February 2018__<br>
 Conference Dates: __26 – 29 March 2018__<br>
