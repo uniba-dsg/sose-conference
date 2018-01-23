@@ -6,7 +6,7 @@ isStaticPost: false
 ---
 #### Information for Visa Requests/Invitation Letters
 
-All authors and participants who require an invitation letter for aquiring visa
+All authors and participants who require an invitation letter for acquiring visa
 or funding from their local institutions, please send an Email to the following
 address:<br>
  
