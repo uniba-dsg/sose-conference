@@ -10,16 +10,15 @@ All authors and participants who require an invitation letter for aquiring visa
 or funding from their local institutions, please send an Email to the following
 address:<br>
  
-Email: guido.wirtz@uni-bamberg.de<br>
-Subject: Invitation Letter {SOSE|MobilCloud|BigDataServices}<br>
+__Email__: guido.wirtz@uni-bamberg.de<br>
+__Subject__: Invitation Letter {SOSE|MobileCloud|BigDataServices}<br>
  
 with the following information:<br>
 <br> 
-Author:<br>
-Address:<br>            
-<including Phone and Email><br>
-Conference/Workshop:<br>
-Paper Title:<br>
-Statement, whether a digital version is sufficient or a paper version by postage is required.<br>
+__Author__:<br>
+__Address__: (including Phone and Email)<br>
+__Conference/Workshop__:<br>
+__Paper Title__:<br>
+__Statement, whether a digital version is sufficient or a paper version by postage is required.__<br>
 <br>
 We send digital invitation letters ASAP and, iff needed paper version via DHL Express as this is probably the fastest way.
