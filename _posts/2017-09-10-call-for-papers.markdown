@@ -20,8 +20,8 @@ Workshop Proposal: <strike>16 October 2017</strike>. See the <a href='/blog/call
 
 Submission Deadline: <strike>6 December 2017</strike><br>
 Authors Notification: <strike>15 January 2018</strike><br>
-Camera-ready Paper: __01 February 2018__<br>
-Registration Due: __01 February 2018__<br>
+Camera-ready Paper: <strike>01 February 2018</strike>__09 February 2018__<br>
+Registration Due: <strike>01 February 2018</strike>__09 February 2018__<br>
 Conference Dates: __26 – 29 March 2018__<br>
 
 ##### Regular Research Papers
