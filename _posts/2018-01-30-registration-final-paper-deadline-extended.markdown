@@ -9,7 +9,8 @@ isStaticPost: false
 Due to some organizational issues, __the deadlines for registration
 as well as final paper submission are postponed by a week to February 9th__.
  
-As soon as the registration and upload sites are open, authors be notified by Email.
+<strong>The Registration is open NOW – please register [HERE](https://www.regonline.com/builder/site/tab2.aspx?EventID=2201744).</strong>
+Note: Authors should register until Friday, February 9th midnight – in case of problems please contact guido.wirtz@uni-bamberg.de
  
 The __registration fees__ as approved by IEEE are as follows
 (EURO, including 19% VAT and all taxes, meals, reception and conference dinner):
@@ -26,5 +27,5 @@ Workshop only (1-day) registration will be
 - 265 € IEEE student members
 - 340 € IEEE students non-members
  
-Late (after February 25th) or On-Site registration will be approx. 20% higher for all
+Late (after March 2nd) or On-Site registration will be approx. 20% higher for all
 levels.
