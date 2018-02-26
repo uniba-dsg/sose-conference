@@ -8,7 +8,7 @@ isStaticPost: false
 
 The registration site for IEEE SOSE is now available <a href="https://www.regonline.com/builder/site/tab2.aspx?EventID=2201744" target="_blank">here</a>.
 
-Please note that a full registration of one author is needed for every paper. The deadline for registration is February 09th.
+Please note that a full registration of one author is needed for every paper. The deadline for registration is <strike>February 09th</strike> March 11th.
 
 Best regards
 The SOSE PC Chairs
