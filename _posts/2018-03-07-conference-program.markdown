@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Conference Program Is Available"
+title:  "Conference Program Is Now Available"
 date:   2018-03-07 09:00:00
 isStaticPost: false
 ---
