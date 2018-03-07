@@ -62,7 +62,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "<typeout> 2018"
-eventDate: "March 26 - 29, 2018<br><a href='/assets/program.pdf' target='_blank'>Conference Schedule</a>"
+eventDate: "March 26 - 29, 2018"
 typeoutTextValues: '"", "Service-Oriented System Engineering", "SOSE"'
 typeoutFallback: "SOSE"
 heroButtons:
