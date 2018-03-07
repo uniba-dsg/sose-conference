@@ -46,13 +46,13 @@ c4sponsorsUrl: "mailto:guido.wirtz@uni-bamberg.de"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "News"}
- - {permalink: "/blog/call-for-papers", text: "Call for Papers"}
- - {permalink: "/blog/call-for-wip", text: "Call for WiP"}
+ - {permalink: "/assets/program.pdf", text: "Program"}
+ - {permalink: "/logistics/", text: "Travel Info"}
+# - {permalink: "/blog/call-for-papers", text: "Call for Papers"}
+# - {permalink: "/blog/call-for-wip", text: "Call for WiP"}
 # - {permalink: "/blog/call-for-workshops", text: "Call for Workshops"}
-# - {permalink: "/schedule/", text: "Program"}
 # - {permalink: "/speakers/", text: "Keynotes"}
  - {permalink: "/team/", text: "Organizers"}
- - {permalink: "/logistics/", text: "Travel Info"}
  - {permalink: "/blog/colocated-events", text: "Co-located Events"}
 bottomNavigationLinks:
  - {link: "https://www.regonline.com/builder/site/tab2.aspx?EventID=2201744", text: "Register"}
@@ -62,7 +62,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "<typeout> 2018"
-eventDate: "March 26 - 29, 2018"
+eventDate: "March 26 - 29, 2018<br><a href='/assets/program.pdf' target='_blank'>Conference Schedule</a>"
 typeoutTextValues: '"", "Service-Oriented System Engineering", "SOSE"'
 typeoutFallback: "SOSE"
 heroButtons:
