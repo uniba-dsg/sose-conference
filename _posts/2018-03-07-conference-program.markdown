@@ -8,7 +8,6 @@ isStaticPost: false
 
 The tentative conference program is now available <a href="/assets/program.pdf" target="_blank">here</a>.
 
-Best regards
-The SOSE PC Chairs
+The detailed schedule will follow in the next days.
 
 
