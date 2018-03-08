@@ -8,6 +8,13 @@ isStaticPost: false
 
 The tentative conference program is now available <a href="/assets/program.pdf" target="_blank">here</a>.
 
-The detailed schedule will follow in the next days.
+The detailed schedule with all speakers can be found <a href="/assets/schedule.pdf" target="_blank">here</a>.
+
+##### Conference Program
+
+<p><a href="/assets/program.pdf" target="_blank">Event Overview</a></p>
+
+<p><a href="/assets/schedule.pdf" target="_blank">Detailed Speaker Schedule</a></p>
+
 
 

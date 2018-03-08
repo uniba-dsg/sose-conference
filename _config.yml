@@ -46,7 +46,7 @@ c4sponsorsUrl: "mailto:guido.wirtz@uni-bamberg.de"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "News"}
- - {permalink: "/assets/program.pdf", text: "Program"}
+ - {permalink: "/blog/conference-program", text: "Program"}
  - {permalink: "/logistics/", text: "Travel Info"}
 # - {permalink: "/blog/call-for-papers", text: "Call for Papers"}
 # - {permalink: "/blog/call-for-wip", text: "Call for WiP"}
