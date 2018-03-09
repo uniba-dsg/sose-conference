@@ -6,7 +6,9 @@ isStaticPost: false
 ---
 #### Conference Program Is Now Available
 
-The tentative conference program is now available <a href="/assets/program.pdf" target="_blank">here</a>.
+<p>Program last updated on <span style="color:red">2018/3/9</span></p>
+
+The conference program is now available <a href="/assets/program.pdf" target="_blank">here</a>.
 
 The detailed schedule with all speakers can be found <a href="/assets/schedule.pdf" target="_blank">here</a>.
 
