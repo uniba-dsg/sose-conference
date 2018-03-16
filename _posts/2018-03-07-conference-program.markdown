@@ -6,7 +6,7 @@ isStaticPost: false
 ---
 #### Conference Program Is Now Available
 
-<p>Program last updated on <span style="color:red">2018/3/9</span></p>
+<p>Program last updated on <span style="color:red">2018/3/16</span></p>
 
 The conference program is now available <a href="/assets/program.pdf" target="_blank">here</a>.
 
