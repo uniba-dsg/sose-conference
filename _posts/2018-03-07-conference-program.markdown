@@ -16,4 +16,4 @@ The detailed schedule with all speakers can be found <a href="/assets/schedule.p
 
 <p><a href="/assets/program.pdf" target="_blank">Event Overview</a></p>
 
-<p><a href="/assets/schedule_new.pdf" target="_blank">Detailed Speaker Schedule</a></p>
+<p><a href="/assets/schedule.pdf" target="_blank">Detailed Speaker Schedule</a></p>
