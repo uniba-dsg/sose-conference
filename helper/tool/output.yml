@@ -1,0 +1,352 @@
+- !de.uniba.dsg.reviews.Member
+   name: Stefan
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://www.infosys.tuwien.ac.at/staff/sschulte/talks.html
+   surname: Schulte
+   title: TU Wien, Austria
+- !de.uniba.dsg.reviews.Member
+   name: Cesare
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://design.inf.usi.ch/
+   surname: Pautasso
+   title: USI Lugano, Switzerland
+- !de.uniba.dsg.reviews.Member
+   name: Marco
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://www.cs.rug.nl/~aiellom/aiellom/Home.html
+   surname: Aiello
+   title: University of Groningen, The Netherlands
+- !de.uniba.dsg.reviews.Member
+   name: Guido
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: https://www.uni-bamberg.de/pi/team/wirtz/
+   surname: Wirtz
+   title: University of Bamberg, Germany
+- !de.uniba.dsg.reviews.Member
+   name: Hong
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://cms.brookes.ac.uk/staff/HongZhu/
+   surname: Zhu
+   title: Oxford Brookes University, UK
+- !de.uniba.dsg.reviews.Member
+   name: Javid
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: https://www.kau.se/forskare/javid-taheri
+   surname: Taheri
+   title: Karlstad University, Sweden
+- !de.uniba.dsg.reviews.Member
+   name: Thomas
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://swt.informatik.uni-jena.de/Mitarbeiter/Heinze+Thomas+S_.html
+   surname: Heinze
+   title: University of Jena, Germany
+- !de.uniba.dsg.reviews.Member
+   name: Schahram
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://www.infosys.tuwien.ac.at/staff/sd/
+   surname: Dustdar
+   title: TU Wien, Austria
+- !de.uniba.dsg.reviews.Member
+   name: Dana
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: https://users.info.uvt.ro/~petcu/
+   surname: Petcu
+   title: West University of Timisoara, Romania
+- !de.uniba.dsg.reviews.Member
+   name: Simon
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: https://www.uni-bamberg.de/pi/team/harrer/
+   surname: Harrer
+   title: University of Bamberg, Germany
+- !de.uniba.dsg.reviews.Member
+   name: Fabio
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://www.inf.ufg.br/~fmc/Fabio_Costa/Home.html
+   surname: Costa
+   title: Federal University of Goias, Brazil
+- !de.uniba.dsg.reviews.Member
+   name: Muhammad
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://cms.brookes.ac.uk/staff/MYounas/
+   surname: Younas
+   title: Oxford Brookes University, UK
+- !de.uniba.dsg.reviews.Member
+   name: Jan
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://www.swt.tu-berlin.de/menue/team/jan_suermeli
+   surname: Suermeli
+   title: Humboldt-Universitaet zu Berlin, Germany
+- !de.uniba.dsg.reviews.Member
+   name: Jerry
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://www.engr.sjsu.edu/gaojerry/
+   surname: Gao
+   title: San Jose State University, USA
+- !de.uniba.dsg.reviews.Member
+   name: Paul
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: https://engineering.leeds.ac.uk/staff/366/paul_townend
+   surname: Townend
+   title: University of Leeds, UK
+- !de.uniba.dsg.reviews.Member
+   name: Oliver
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: https://www.ipvs.uni-stuttgart.de/abteilungen/as/abteilung/mitarbeiter/Oliver.Kopp
+   surname: Kopp
+   title: University of Stuttgart, Germany
+- !de.uniba.dsg.reviews.Member
+   name: Philipp
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: https://www.hs-neu-ulm.de/philipp-brune/
+   surname: Brune
+   title: University of Applied Sciences Neu-Ulm, Germany
+- !de.uniba.dsg.reviews.Member
+   name: Hongming
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://en.se.sjtu.edu.cn/teacher/teacherdetail.aspx?id=9
+   surname: Cai
+   title: Shanghai JiaoTong University, China
+- !de.uniba.dsg.reviews.Member
+   name: Andreas
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: https://www.dcl.hpi.uni-potsdam.de/people/polze/
+   surname: Polze
+   title: Hasso-Plattner-Institute at University, Germany
+- !de.uniba.dsg.reviews.Member
+   name: ""
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: https://www.northumbria.ac.uk/about-us/our-staff/c/yue-cao/
+   surname: Yue Cao
+   title: Northumbria University, UK
+- !de.uniba.dsg.reviews.Member
+   name: Guglielmo
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://www.isti.cnr.it/about/people.php?id=98
+   surname: De Angelis
+   title: CNR - IASI, Italy
+- !de.uniba.dsg.reviews.Member
+   name: Gregor
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://gregorscheithauer.de/
+   surname: Scheithauer
+   title: Metafinanz Informationssysteme GmbH, Germany
+- !de.uniba.dsg.reviews.Member
+   name: Karim
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: https://engineering.leeds.ac.uk/staff/187/karim_djemame
+   surname: Djemame
+   title: University of Leeds, UK
+- !de.uniba.dsg.reviews.Member
+   name: Joyce
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://www.lamsade.dauphine.fr/~elhaddad/
+   surname: El Haddad
+   title: Universite Paris Dauphine, France
+- !de.uniba.dsg.reviews.Member
+   name: Marcelo
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://each.uspnet.usp.br/fantinato/
+   surname: Fantinato
+   title: University of Sao Paulo, Brazil
+- !de.uniba.dsg.reviews.Member
+   name: Xiaoying
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://www.cs.tsinghua.edu.cn/publish/csen/4623/2010/20101223224639710389157/20101223224639710389157_.html
+   surname: Bai
+   title: Tsinghua University, China
+- !de.uniba.dsg.reviews.Member
+   name: Zongming
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: https://www.cs.uky.edu/people/faculty/zfei
+   surname: Fei
+   title: University of Kentucky, USA
+- !de.uniba.dsg.reviews.Member
+   name: Nikolaos
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: https://www-roc.inria.fr/arles/index.php/members/93-nikolaos-georgantas.html
+   surname: Georgantas
+   title: Inria Paris - Rocquencourt, France
+- !de.uniba.dsg.reviews.Member
+   name: Ping
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: ""
+   surname: Guo
+   title: University of Illinois at Springfield, USA
+- !de.uniba.dsg.reviews.Member
+   name: Chunming
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: https://www.linkedin.com/in/chunming-hu-29394128/
+   surname: Hu
+   title: Beihang University, China
+- !de.uniba.dsg.reviews.Member
+   name: Donghui
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://www.ai.soc.i.kyoto-u.ac.jp/~lindh/
+   surname: Lin
+   title: Kyoto University, Japan
+- !de.uniba.dsg.reviews.Member
+   name: Xiao
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://www.deakin.edu.au/about-deakin/people/xiao-liu
+   surname: Liu
+   title: Deakin University, Australia
+- !de.uniba.dsg.reviews.Member
+   name: Liu
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://www.ntu.edu.sg/home/yangliu/
+   surname: Yang
+   title: Nanyang Technological University, Singapore
+- !de.uniba.dsg.reviews.Member
+   name: Richard
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://beaver.psu.edu/person/richard-lomotey
+   surname: Lomotey
+   title: Penn State University, USA
+- !de.uniba.dsg.reviews.Member
+   name: Marcin
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://www.ibspan.waw.pl/~paprzyck/
+   surname: Paprzycki
+   title: Polish Academy of Sciences, Poland
+- !de.uniba.dsg.reviews.Member
+   name: Man
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: https://www.canterbury.ac.uk/social-and-applied-sciences/law-criminal-justice-and-computing/Staff/Profile.aspx?staff=4339c0c7da7da6b5
+   surname: Qi
+   title: Canterbury Christ Church University, UK
+- !de.uniba.dsg.reviews.Member
+   name: Dave
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://www.nottingham.edu.cn/en/science-engineering/departments/computer-science/people/dave-towey.aspx
+   surname: Towey
+   title: The University of Nottingham Ningbo, China
+- !de.uniba.dsg.reviews.Member
+   name: Jianxin
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://act.buaa.edu.cn/lijx/
+   surname: Li
+   title: Beihang University, China
+- !de.uniba.dsg.reviews.Member
+   name: Liqiang
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://www.cs.ucf.edu/~lwang/
+   surname: Wang
+   title: University of Central Florida, USA
+- !de.uniba.dsg.reviews.Member
+   name: Yijie
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: ""
+   surname: Wang
+   title: National University of Defense Technology, China
+- !de.uniba.dsg.reviews.Member
+   name: Haiping
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://www.cis.umassd.edu/~hxu/
+   surname: Xu
+   title: University of Massachusetts Dartmouth, USA
+- !de.uniba.dsg.reviews.Member
+   name: Yun
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: https://www.swinburne.edu.au/science-engineering-technology/staff/profile/index.php?id=yyang
+   surname: Yang
+   title: Swinburne University of Technology, Australia
+- !de.uniba.dsg.reviews.Member
+   name: Hongji
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://www.yang-hongji.co.uk/
+   surname: Yang
+   title: Bath Spa University, UK
+- !de.uniba.dsg.reviews.Member
+   name: Daniel
+   pc: true
+   social: !java.util.Arrays$ArrayList
+   -  name: site
+      link: http://www.cc.uah.es/drg/
+   surname: Rodriguez
+   title: University of Alcala, Spain
